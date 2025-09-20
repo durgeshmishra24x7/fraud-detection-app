@@ -74,7 +74,7 @@ card_style = """
 st.markdown(card_style, unsafe_allow_html=True)
 
 # --- Header ---
-st.title("🏦 Smart Transaction Fraud Detector")
+st.title("🏦 Transaction Fraud Detector")
 st.markdown(
     """
     Welcome to the **Bank Fraud Detection Dashboard**  
