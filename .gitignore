@@ -1,0 +1,12 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Kaggle API key
+kaggle.json
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore other system files
+__pycache__/
+*.pkl
