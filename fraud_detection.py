@@ -74,7 +74,7 @@ card_style = """
 st.markdown(card_style, unsafe_allow_html=True)
 
 # --- Header ---
-st.title("🏦 Fraud Detection System")
+st.title("🏦 Smart Transaction Fraud Detector")
 st.markdown(
     """
     Welcome to the **Bank Fraud Detection Dashboard**  
@@ -132,7 +132,7 @@ with st.form("fraud_form"):
 
     # Wrap submit button in a unique container
     st.markdown('<div class="predict-btn">', unsafe_allow_html=True)
-    submit = st.form_submit_button("Predict Transaction")
+    submit = st.form_submit_button("Predict")
     st.markdown('</div>', unsafe_allow_html=True)
 
 # --- Prediction ---
