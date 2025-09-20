@@ -7,7 +7,7 @@ model = joblib.load('fraud_detection_model.pkl')
 
 # --- Page Config ---
 st.set_page_config(
-    page_title="Fraud Detection App",
+    page_title="Fraud Detection Application",
     page_icon="💳",
     layout="centered",
 )
