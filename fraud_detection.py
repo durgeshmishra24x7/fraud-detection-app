@@ -78,8 +78,7 @@ st.title("🏦 Transaction Fraud Detector")
 st.markdown(
     """
     Welcome to the **Bank Fraud Detection Dashboard**  
-    Enter transaction details below and click **Predict**  
-    to check if the transaction is **Fraudulent** or **Legitimate**.
+    Enter transaction details below and click **Predict** to check if the transaction is **Fraudulent** or **Legitimate**.
     """,
     unsafe_allow_html=True,
 )
